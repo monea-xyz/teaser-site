@@ -1,0 +1,42 @@
+{
+	"$schema": "https://biomejs.dev/schemas/1.6.4/schema.json",
+	"files": {
+		"ignore": [
+			"__deprecated__/**/*",
+			".next",
+			"node_modules"
+		]
+	},
+	"formatter": {
+		"enabled": true
+	},
+	"javascript": {
+		"formatter": {
+			"enabled": true,
+			"quoteStyle": "double",
+			"jsxQuoteStyle": "double"
+		}
+	},
+	"json": {},
+	"linter": {
+		"enabled": true,
+		"rules": {
+			"all": true,
+			"suspicious": {
+				"noEmptyBlockStatements": "off"
+			},
+			"style": {
+				"noDefaultExport": "off",
+				"useNamingConvention": "off",
+				"noImplicitBoolean": "off"
+			},
+			"correctness": {
+				"useExhaustiveDependencies": "off"
+			}
+		}
+	},
+	"organizeImports": {
+		"enabled": true
+	},
+	"overrides": []
+}
