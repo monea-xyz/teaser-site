@@ -1,7 +1,8 @@
 {
-    "recommendations": [
-        "eamodio.gitlens",
-        "bradlc.vscode-tailwindcss",
-        "biomejs.biome"
-    ]
+	"recommendations": [
+		"eamodio.gitlens",
+		"bradlc.vscode-tailwindcss",
+		"biomejs.biome",
+		"editorconfig.editorconfig"
+	]
 }

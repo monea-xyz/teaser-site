@@ -8,7 +8,9 @@
 		]
 	},
 	"formatter": {
-		"enabled": true
+		"enabled": true,
+		"indentStyle": "tab",
+    	"indentWidth": 4
 	},
 	"javascript": {
 		"formatter": {
