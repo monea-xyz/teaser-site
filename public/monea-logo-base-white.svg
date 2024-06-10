@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1600 405" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1.25975,0,0,1.25975,-299.368,-55.0535)">
+        <text x="593px" y="300px" style="font-family:'MazzardH-SemiBold', 'Mazzard';font-weight:600;font-stretch:semi-condensed;font-size:279.907px;fill:white;">Monea</text>
+    </g>
+    <g id="monea-icon-white.svg" transform="matrix(0.252625,0,0,0.252625,202.1,202.1)">
+        <g transform="matrix(1,0,0,1,-800,-800)">
+            <clipPath id="_clip1">
+                <rect x="0" y="0" width="1600" height="1600"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g transform="matrix(7.47664,0,0,7.47664,-2063.55,-2437.38)">
+                    <path d="M383,326C442.055,326 490,373.945 490,433C490,492.055 442.055,540 383,540C323.945,540 276,492.055 276,433C276,373.945 323.945,326 383,326ZM383,380C427.153,380 463,415.847 463,460C463,504.153 427.153,540 383,540C338.847,540 303,504.153 303,460C303,415.847 338.847,380 383,380Z" style="fill:white;"/>
+                </g>
+                <g transform="matrix(7.47664,0,0,7.47664,-2063.55,-2437.38)">
+                    <path d="M382.827,539.999C353.377,539.904 329.5,515.968 329.5,486.5C329.5,456.973 353.473,433 383,433C412.527,433 436.5,456.973 436.5,486.5C436.5,515.968 412.623,539.904 383.173,539.999C397.857,539.906 409.75,527.956 409.75,513.25C409.75,498.486 397.764,486.5 383,486.5C368.236,486.5 356.25,498.486 356.25,513.25C356.25,527.956 368.143,539.906 382.827,539.999Z" style="fill:white;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
